@@ -12,7 +12,7 @@ Previous Years:
 ### Reading
 * [Emotional Intelligence: Why It Can Matter More Than IQ](https://www.amazon.com/dp/055338371X), Daniel Goleman
 * [The Engineering Executive's Primer](https://www.amazon.com/gp/product/B0CV4QGPXD/), Will Larson
-* A Philosophy of Software Design, John Ousterhout (IH book club book)
+* [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-2nd/dp/173210221X/), John Ousterhout (IH book club book)
 
 ### Finished
 * [High Output Management](https://www.audible.com/pd/High-Output-Management-Audiobook/0593459326) (Audiobook), Andrew S. Grove (2/3/25)
