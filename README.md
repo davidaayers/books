@@ -35,7 +35,7 @@ Previous Years:
 * [The Dungeon Anarchist's Cookbook](https://www.audible.com/pd/The-Dungeon-Anarchists-Cookbook-Audiobook/B094XCNV6G) (Audiobook), Matt Dinniman (4/1/25)
 * [The Gate of the Feral Gods](https://www.audible.com/pd/The-Gate-of-the-Feral-Gods-Audiobook/B09GCYRZRQ) (Audiobook), Matt Dinniman (4/10/25)
 * [The Butcher's Masquerade](https://www.audible.com/pd/The-Butchers-Masquerade-Audiobook/B09ZJ82C7Y) (Audiobook), Matt Dinniman (4/24/25)
-* [The Eye of the Bedlam Bride](https://www.audible.com/pd/The-Eye-of-the-Bedlam-Bride-Audiobook/B0CDXWSS5D) (Audiobook), Matt Dinniman 5/12/25)
+* [The Eye of the Bedlam Bride](https://www.audible.com/pd/The-Eye-of-the-Bedlam-Bride-Audiobook/B0CDXWSS5D) (Audiobook), Matt Dinniman (5/12/25)
 * [The Life We Bury](https://www.audible.com/pd/The-Life-We-Bury-Audiobook/B00YNT5JO6) (Audiobook), Allen Eskens (5/25/25)
 * [This Inevitable Ruin](https://www.audible.com/pd/This-Inevitable-Ruin-Audiobook/B0DK282SYV) (Audiobook), Matt Dinniman (6/9/25)
 * [The Devils](https://www.audible.com/pd/The-Devils-Audiobook/B0DK3ZV4XR) (Audiobook), Joe Abercrombie (7/1/25)
