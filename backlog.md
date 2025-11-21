@@ -16,7 +16,8 @@ Books I own or want to read.
 * [Gamestorming: A Playbook for Innovators, Rulebreakers, and Changemakers](https://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172/ref=sr_1_1?crid=33OUK10KIV9U&keywords=gamestorming&qid=1548194177&s=Books&sprefix=gamestor%2Cstripbooks%2C155&sr=1-1), Dave Gray & Sunni Brown & James Macanufo
 
 ### Wishlist
-
+* [Unreasonable Hospitality](https://www.amazon.com/Unreasonable-Hospitality-Remarkable-Giving-People/dp/0593418573)
+* [Facilitating Software Architecture: Empowering Teams to Make Architectural Decisions](https://www.amazon.com/Facilitating-Software-Architecture-Empowering-Architectural/dp/1098151860), Andrew Harmel-Law
 * [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly/), Floyd Marinescu and Abel Avram
 * [Learning Domain-Driven Design](https://www.amazon.com/Learning-Domain-Driven-Design-Vlad-Khononov-ebook/dp/B09J2CMJZY), Vlad Khononov
 * [Trillion Dollar Coach](https://www.amazon.com/Trillion-Dollar-Coach-Leadership-Playbook/dp/0062839268/), Schmidt, Rosenberg and Eagle
@@ -83,6 +84,14 @@ Books I own or want to read.
 ## Fiction
 
 ### Backlog (Owned)
+* [Blood of the Mantis: Shadows of the Apt, Book 3](https://www.audible.com/pd/Blood-of-the-Mantis-Audiobook/1529050316) (Audiobook), Adrian Tchaikovsky
+* [Salute the Dark: Shadows of the Apt, Book 4](https://www.audible.com/pd/Salute-the-Dark-Audiobook/1529050332) (Audiobook), Adrian Tchaikovsky
+* [The Scarab Path: Shadows of the Apt, Book 5](https://www.audible.com/pd/The-Scarab-Path-Audiobook/1529050359) (Audiobook), Adrian Tchaikovsky
+* [The Sea Watch: Shadows of the Apt, Book 6](https://www.audible.com/pd/The-Sea-Watch-Audiobook/1529050375) (Audiobook), Adrian Tchaikovsky
+* [Heirs of the Blade: Shadows of the Apt, Book 7](https://www.audible.com/pd/Heirs-of-the-Blade-Audiobook/1529050391) (Audiobook), Adrian Tchaikovsky
+* [The Air War: Shadows of the Apt, Book 8](https://www.audible.com/pd/The-Air-War-Audiobook/1529050413) (Audiobook), Adrian Tchaikovsky
+* [War Master's Gate: Shadows of the Apt, Book 9](https://www.audible.com/pd/War-Masters-Gate-Audiobook/152905043X) (Audiobook), Adrian Tchaikovsky
+* [Seal of the Worm: Shadows of the Apt, Book 10](https://www.audible.com/pd/Seal-of-the-Worm-Audiobook/1529050456) (Audiobook), Adrian Tchaikovsky
 * [Starter Villain](https://www.audible.com/pd/Starter-Villain-Audiobook/B0C6FPMDGV) (Audiobook), John Scalzi
 * [The Book That Wouldn't Burn](https://www.audible.com/pd/The-Book-That-Wouldnt-Burn-Audiobook/B0B9P72LZC) (Audiobook), Mark Lawrence
 * [Something, Something, Something, Murder](https://nextdraft.com/something-something-something-murder/) - Not a book, but an online serial that was published week by week for Nextdraft.
@@ -95,3 +104,4 @@ Books I own or want to read.
 * [An Absolutely Remarkable Thing](https://www.amazon.com/An-Absolutely-Remarkable-Thing-audiobook/dp/B079J4CY2N/)
 * [The Book of Accidents](https://www.audible.com/pd/The-Book-of-Accidents-Audiobook/0593213823?qid=1631541852), Chuck Wendig
 * [Blindsight](https://www.goodreads.com/en/book/show/48484)
+* [There Is No Antimemetics Division: A Novel](https://www.amazon.com/There-No-Antimemetics-Division-Novel/dp/B0DWC5TT8R/ref=tmm_aud_swatch_0), qntm

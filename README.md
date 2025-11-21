@@ -20,7 +20,8 @@ Previous Years:
 ## Fiction
 
 ### Reading
-* [Age of Empyre: Book Six of The Legends of the First Empire](https://www.audible.com/pd/Age-of-Empyre-Audiobook/B07V1JPZV5) (Audiobook), Michael J. Sullivan
+* [Dragonfly Falling: Shadows of the Apt, Book 2](www.audible.com/pd/Dragonfly-Falling-Audiobook/1529050294) (Audiobook), Adrian Tchaikovsky
+* [Mr. Mercedes](https://www.audible.com/pd/Mr-Mercedes-Audiobook/B00J8VK1WY) (Audiobook), Stephen King
 
 ### Finished
 * [Gnomon](https://www.audible.com/pd/Gnomon-Audiobook/1984833758) (Audiobook), Nick Harkaway (1/15/25)
@@ -44,4 +45,10 @@ Previous Years:
 * [Age of War: Book Three of The Legends of the First Empire](https://www.audible.com/pd/Age-of-War-Audiobook/B074F9NBDR) (Audiobook), Michael J. Sullivan (8/12/25)
 * [Age of Legend: Book Four of The Legends of the First Empire](https://www.audible.com/pd/Age-of-Legend-Audiobook/1490656243) (Audiobook), Michael J. Sullivan (8/26/25)
 * [Age of Death: Book Five of The Legends of the First Empire](https://www.audible.com/pd/Age-of-Death-Audiobook/B07TZKT8WS) (Audiobook), Michael J. Sullivan (9/5/25)
-
+* [Age of Empyre: Book Six of The Legends of the First Empire](https://www.audible.com/pd/Age-of-Empyre-Audiobook/B07V1JPZV5) (Audiobook), Michael J. Sullivan (9/17/25)
+* [Nolyn: The Rise and Fall, Book 1](https://www.audible.com/pd/Nolyn-Audiobook/B089X9Q2ZK) (Audiobook), Michael J. Sullivan (9/24/25)
+* [Farilane: The Rise and Fall, Book 2](https://www.audible.com/pd/Farilane-Audiobook/B09NMMM8JV) (Audiobook), Michael J. Sullivan (10/3/25)
+* [Esrahaddon: The Rise and Fall, Book 3](https://www.audible.com/pd/Esrahaddon-Audiobook/B0BSVKSRFH) (Audiobook), Michael J. Sullivan (10/25/25)
+* [The Running Man](https://www.audible.com/pd/The-Running-Man-Audiobook/B019WULXBS) (Audiobook), Stephen King (11/08/25)
+* [Never Flinch](https://www.audible.com/pd/Never-Flinch-Audiobook/B0DNGJBZJ5) (Audiobook), Stephen King (11/13/25)
+* [Empire in Black and Gold: Shadows of the Apt, Book 1](https://www.audible.com/pd/Empire-in-Black-and-Gold-Audiobook/1529050278) (Audiobook), Adrian Tchaikovsky (11/19/25)
