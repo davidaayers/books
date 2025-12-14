@@ -20,8 +20,7 @@ Previous Years:
 ## Fiction
 
 ### Reading
-* [Dragonfly Falling: Shadows of the Apt, Book 2](www.audible.com/pd/Dragonfly-Falling-Audiobook/1529050294) (Audiobook), Adrian Tchaikovsky
-* [Mr. Mercedes](https://www.audible.com/pd/Mr-Mercedes-Audiobook/B00J8VK1WY) (Audiobook), Stephen King
+* [Blood of the Mantis: Shadows of the Apt, Book 3](https://www.audible.com/pd/Blood-of-the-Mantis-Audiobook/1529050316) (Audiobook), Adrian Tchaikovsky
 
 ### Finished
 * [Gnomon](https://www.audible.com/pd/Gnomon-Audiobook/1984833758) (Audiobook), Nick Harkaway (1/15/25)
@@ -52,3 +51,5 @@ Previous Years:
 * [The Running Man](https://www.audible.com/pd/The-Running-Man-Audiobook/B019WULXBS) (Audiobook), Stephen King (11/08/25)
 * [Never Flinch](https://www.audible.com/pd/Never-Flinch-Audiobook/B0DNGJBZJ5) (Audiobook), Stephen King (11/13/25)
 * [Empire in Black and Gold: Shadows of the Apt, Book 1](https://www.audible.com/pd/Empire-in-Black-and-Gold-Audiobook/1529050278) (Audiobook), Adrian Tchaikovsky (11/19/25)
+* [Mr. Mercedes](https://www.audible.com/pd/Mr-Mercedes-Audiobook/B00J8VK1WY) (Audiobook), Stephen King (12/3/25)
+* [Dragonfly Falling: Shadows of the Apt, Book 2](www.audible.com/pd/Dragonfly-Falling-Audiobook/1529050294) (Audiobook), Adrian Tchaikovsky (12/11/25)

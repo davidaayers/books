@@ -16,7 +16,9 @@ Books I own or want to read.
 * [Gamestorming: A Playbook for Innovators, Rulebreakers, and Changemakers](https://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172/ref=sr_1_1?crid=33OUK10KIV9U&keywords=gamestorming&qid=1548194177&s=Books&sprefix=gamestor%2Cstripbooks%2C155&sr=1-1), Dave Gray & Sunni Brown & James Macanufo
 
 ### Wishlist
-* [Unreasonable Hospitality](https://www.amazon.com/Unreasonable-Hospitality-Remarkable-Giving-People/dp/0593418573)
+* [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555), Daniel Kahneman
+* [Frictionless](https://www.amazon.com/Frictionless-Remove-Barriers-Outpace-Competition/dp/1662966377/) - Nicole Forsgren and Abi Noda
+* [Unreasonable Hospitality](https://www.amazon.com/Unreasonable-Hospitality-Remarkable-Giving-People/dp/0593418573) - recommended by Joe Stockton (Oyster Data)
 * [Facilitating Software Architecture: Empowering Teams to Make Architectural Decisions](https://www.amazon.com/Facilitating-Software-Architecture-Empowering-Architectural/dp/1098151860), Andrew Harmel-Law
 * [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly/), Floyd Marinescu and Abel Avram
 * [Learning Domain-Driven Design](https://www.amazon.com/Learning-Domain-Driven-Design-Vlad-Khononov-ebook/dp/B09J2CMJZY), Vlad Khononov
@@ -61,7 +63,6 @@ Books I own or want to read.
 * [Nudge: Improving Decisions About Health, Wealth, and Happiness](https://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X), Richard H. Thaler, Cass R. Sunstein
 * [Dynamic Reteaming: The Art and Wisdom of Changing Teams](https://www.amazon.com/Dynamic-Reteaming-Wisdom-Changing-Teams-ebook/dp/B08B48ZTJ5/), Heidi Helfand
 * [How to Measure Anything: Finding the Value of Intangibles in Business](https://www.amazon.com/How-Measure-Anything-Intangibles-Business/dp/1118539273), Douglas W. Hubbard
-* [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555), Daniel Kahneman
 * [Designing Regenerative Cultures](https://www.amazon.com/Designing-Regenerative-Cultures-Daniel-Christian/dp/1909470775), Daniel Christian Wahl
 * [Thinking in Systems: A Primer](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557), Donella H. Meadows
 * [Several Short Sentences About Writing](https://www.amazon.com/Several-Short-Sentences-About-Writing/dp/0307279413), Verlyn Klinkenborg
@@ -84,7 +85,6 @@ Books I own or want to read.
 ## Fiction
 
 ### Backlog (Owned)
-* [Blood of the Mantis: Shadows of the Apt, Book 3](https://www.audible.com/pd/Blood-of-the-Mantis-Audiobook/1529050316) (Audiobook), Adrian Tchaikovsky
 * [Salute the Dark: Shadows of the Apt, Book 4](https://www.audible.com/pd/Salute-the-Dark-Audiobook/1529050332) (Audiobook), Adrian Tchaikovsky
 * [The Scarab Path: Shadows of the Apt, Book 5](https://www.audible.com/pd/The-Scarab-Path-Audiobook/1529050359) (Audiobook), Adrian Tchaikovsky
 * [The Sea Watch: Shadows of the Apt, Book 6](https://www.audible.com/pd/The-Sea-Watch-Audiobook/1529050375) (Audiobook), Adrian Tchaikovsky
