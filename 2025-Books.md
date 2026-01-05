@@ -13,8 +13,6 @@
 
 ---
 
-*2025 Books & Other Media, Read* ([2024 Books](2024-Books))
-
 ## Non-Fiction
 * [High Output Management](https://www.audible.com/pd/High-Output-Management-Audiobook/0593459326) (Audiobook), Andrew S. Grove (2/3/25)
 

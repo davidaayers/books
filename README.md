@@ -1,7 +1,20 @@
-Hi! I'm [David](https://github.com/davidaayers), and these are all of the books & other media I have read since 2019, as well as owned/wishlisted books I want to read, and books I'm currently reading.
 
-Previous Years:
-[2019](2019-Books.md) | [2020](2020-Books.md) | [2021](2021-Books.md) | [2022](2022-Books.md) | [2023](2023-Books.md) | [2024](2024-Books.md) | [2025](2025-Books.md)
+```
+  ___   ___ ___   __    ____              _        
+ |__ \ / _ \__ \ / /   |  _ \            | |       
+    ) | | | | ) / /_   | |_) | ___   ___ | | _____ 
+   / /| | | |/ / '_ \  |  _ < / _ \ / _ \| |/ / __|
+  / /_| |_| / /| (_) | | |_) | (_) | (_) |   <\__ \
+ |____|\___/____\___/  |____/ \___/ \___/|_|\_\___/
+```
+
+---
+[2019](2019-Books.md) | [2020](2020-Books.md) | [2021](2021-Books.md) | [2022](2022-Books.md) | [2023](2023-Books.md) | [2024](2024-Books.md) | [2025](2025-Books.md) 
+
+---
+
+
+Hi! I'm [David](https://github.com/davidaayers), and these are all of the books & other media I have read since 2019, as well as owned/wishlisted books I want to read, and books I'm currently reading.
 
 [Backlog](backlog.md) (owned & wishlisted)
 
