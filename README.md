@@ -18,7 +18,7 @@ Hi! I'm [David](https://github.com/davidaayers), and these are all of the books 
 
 [Backlog](backlog.md) (owned & wishlisted)
 
-# 2025 Books & Other Media, Reading, Backlog (Owned), Wishlist, Finished
+# 2026 Books & Other Media, Reading, Backlog (Owned), Wishlist, Finished
 
 ## Non-Fiction
 
