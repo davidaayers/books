@@ -85,7 +85,6 @@ Books I own or want to read.
 ## Fiction
 
 ### Backlog (Owned)
-* [Salute the Dark: Shadows of the Apt, Book 4](https://www.audible.com/pd/Salute-the-Dark-Audiobook/1529050332) (Audiobook), Adrian Tchaikovsky
 * [The Scarab Path: Shadows of the Apt, Book 5](https://www.audible.com/pd/The-Scarab-Path-Audiobook/1529050359) (Audiobook), Adrian Tchaikovsky
 * [The Sea Watch: Shadows of the Apt, Book 6](https://www.audible.com/pd/The-Sea-Watch-Audiobook/1529050375) (Audiobook), Adrian Tchaikovsky
 * [Heirs of the Blade: Shadows of the Apt, Book 7](https://www.audible.com/pd/Heirs-of-the-Blade-Audiobook/1529050391) (Audiobook), Adrian Tchaikovsky
