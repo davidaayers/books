@@ -28,12 +28,13 @@ Hi! I'm [David](https://github.com/davidaayers), and these are all of the books 
 * [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-2nd/dp/173210221X/), John Ousterhout (IH book club book)
 
 ### Finished
-
+* [The AI-Driven Leader](https://www.audible.com/pd/The-AI-Driven-Leader-Audiobook/B0DDD8R9LR) (Audiobook), Geoff Woods (1/15/26)
 
 ## Fiction
 
 ### Reading
-* [Salute the Dark: Shadows of the Apt, Book 4](https://www.audible.com/pd/Salute-the-Dark-Audiobook/1529050332) (Audiobook), Adrian Tchaikovsky
+* [The Scarab Path: Shadows of the Apt, Book 5](https://www.audible.com/pd/The-Scarab-Path-Audiobook/1529050359) (Audiobook), Adrian Tchaikovsky
 
 ### Finished
 * [Blood of the Mantis: Shadows of the Apt, Book 3](https://www.audible.com/pd/Blood-of-the-Mantis-Audiobook/1529050316) (Audiobook), Adrian Tchaikovsky (1/5/26)
+* [Salute the Dark: Shadows of the Apt, Book 4](https://www.audible.com/pd/Salute-the-Dark-Audiobook/1529050332) (Audiobook), Adrian Tchaikovsky (1/12/26)
