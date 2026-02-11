@@ -33,8 +33,9 @@ Hi! I'm [David](https://github.com/davidaayers), and these are all of the books 
 ## Fiction
 
 ### Reading
-* [The Scarab Path: Shadows of the Apt, Book 5](https://www.audible.com/pd/The-Scarab-Path-Audiobook/1529050359) (Audiobook), Adrian Tchaikovsky
+* [The Sea Watch: Shadows of the Apt, Book 6](https://www.audible.com/pd/The-Sea-Watch-Audiobook/1529050375) (Audiobook), Adrian Tchaikovsky
 
 ### Finished
 * [Blood of the Mantis: Shadows of the Apt, Book 3](https://www.audible.com/pd/Blood-of-the-Mantis-Audiobook/1529050316) (Audiobook), Adrian Tchaikovsky (1/5/26)
 * [Salute the Dark: Shadows of the Apt, Book 4](https://www.audible.com/pd/Salute-the-Dark-Audiobook/1529050332) (Audiobook), Adrian Tchaikovsky (1/12/26)
+* [The Scarab Path: Shadows of the Apt, Book 5](https://www.audible.com/pd/The-Scarab-Path-Audiobook/1529050359) (Audiobook), Adrian Tchaikovsky
