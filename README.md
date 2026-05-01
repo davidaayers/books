@@ -33,9 +33,13 @@ Hi! I'm [David](https://github.com/davidaayers), and these are all of the books 
 ## Fiction
 
 ### Reading
-* [The Sea Watch: Shadows of the Apt, Book 6](https://www.audible.com/pd/The-Sea-Watch-Audiobook/1529050375) (Audiobook), Adrian Tchaikovsky
+* [Seal of the Worm: Shadows of the Apt, Book 10](https://www.audible.com/pd/Seal-of-the-Worm-Audiobook/1529050456) (Audiobook), Adrian Tchaikovsky
 
 ### Finished
 * [Blood of the Mantis: Shadows of the Apt, Book 3](https://www.audible.com/pd/Blood-of-the-Mantis-Audiobook/1529050316) (Audiobook), Adrian Tchaikovsky (1/5/26)
 * [Salute the Dark: Shadows of the Apt, Book 4](https://www.audible.com/pd/Salute-the-Dark-Audiobook/1529050332) (Audiobook), Adrian Tchaikovsky (1/12/26)
-* [The Scarab Path: Shadows of the Apt, Book 5](https://www.audible.com/pd/The-Scarab-Path-Audiobook/1529050359) (Audiobook), Adrian Tchaikovsky
+* [The Scarab Path: Shadows of the Apt, Book 5](https://www.audible.com/pd/The-Scarab-Path-Audiobook/1529050359) (Audiobook), Adrian Tchaikovsky (2/11/26)
+* [The Sea Watch: Shadows of the Apt, Book 6](https://www.audible.com/pd/The-Sea-Watch-Audiobook/1529050375) (Audiobook), Adrian Tchaikovsky (3/3/26)
+* [Heirs of the Blade: Shadows of the Apt, Book 7](https://www.audible.com/pd/Heirs-of-the-Blade-Audiobook/1529050391) (Audiobook), Adrian Tchaikovsky (3/23/26)
+* [The Air War: Shadows of the Apt, Book 8](https://www.audible.com/pd/The-Air-War-Audiobook/1529050413) (Audiobook), Adrian (4/5/26) Tchaikovsky
+* [War Master's Gate: Shadows of the Apt, Book 9](https://www.audible.com/pd/War-Masters-Gate-Audiobook/152905043X) (Audiobook), Adrian Tchaikovsky (4/23/26)

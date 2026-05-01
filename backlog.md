@@ -85,10 +85,6 @@ Books I own or want to read.
 ## Fiction
 
 ### Backlog (Owned)
-* [Heirs of the Blade: Shadows of the Apt, Book 7](https://www.audible.com/pd/Heirs-of-the-Blade-Audiobook/1529050391) (Audiobook), Adrian Tchaikovsky
-* [The Air War: Shadows of the Apt, Book 8](https://www.audible.com/pd/The-Air-War-Audiobook/1529050413) (Audiobook), Adrian Tchaikovsky
-* [War Master's Gate: Shadows of the Apt, Book 9](https://www.audible.com/pd/War-Masters-Gate-Audiobook/152905043X) (Audiobook), Adrian Tchaikovsky
-* [Seal of the Worm: Shadows of the Apt, Book 10](https://www.audible.com/pd/Seal-of-the-Worm-Audiobook/1529050456) (Audiobook), Adrian Tchaikovsky
 * [Starter Villain](https://www.audible.com/pd/Starter-Villain-Audiobook/B0C6FPMDGV) (Audiobook), John Scalzi
 * [The Book That Wouldn't Burn](https://www.audible.com/pd/The-Book-That-Wouldnt-Burn-Audiobook/B0B9P72LZC) (Audiobook), Mark Lawrence
 * [Something, Something, Something, Murder](https://nextdraft.com/something-something-something-murder/) - Not a book, but an online serial that was published week by week for Nextdraft.
