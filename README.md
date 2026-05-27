@@ -32,7 +32,7 @@ Hi! I'm [David](https://github.com/davidaayers), and these are all of the books 
 ## Fiction
 
 ### Reading
-* [A Parade of Horribles, Dungeon Crawler Carl, Book 8](https://www.audible.com/pd/A-Parade-of-Horribles-Audiobook/B0FXY6DVJS) (Audiobook), Matt Dinniman
+* [Finders Keepers](https://www.audible.com/pd/Finders-Keepers-Audiobook/B00U7T90L4) (Audiobook), Stephen King
 
 ### Finished
 * [Blood of the Mantis: Shadows of the Apt, Book 3](https://www.audible.com/pd/Blood-of-the-Mantis-Audiobook/1529050316) (Audiobook), Adrian Tchaikovsky (1/5/26)
@@ -42,4 +42,5 @@ Hi! I'm [David](https://github.com/davidaayers), and these are all of the books 
 * [Heirs of the Blade: Shadows of the Apt, Book 7](https://www.audible.com/pd/Heirs-of-the-Blade-Audiobook/1529050391) (Audiobook), Adrian Tchaikovsky (3/23/26)
 * [The Air War: Shadows of the Apt, Book 8](https://www.audible.com/pd/The-Air-War-Audiobook/1529050413) (Audiobook), Adrian (4/5/26) Tchaikovsky
 * [War Master's Gate: Shadows of the Apt, Book 9](https://www.audible.com/pd/War-Masters-Gate-Audiobook/152905043X) (Audiobook), Adrian Tchaikovsky (4/23/26)
-* [Seal of the Worm: Shadows of the Apt, Book 10](https://www.audible.com/pd/Seal-of-the-Worm-Audiobook/1529050456) (Audiobook), Adrian Tchaikovsky
+* [Seal of the Worm: Shadows of the Apt, Book 10](https://www.audible.com/pd/Seal-of-the-Worm-Audiobook/1529050456) (Audiobook), Adrian Tchaikovsky (5/12/26)
+* [A Parade of Horribles, Dungeon Crawler Carl, Book 8](https://www.audible.com/pd/A-Parade-of-Horribles-Audiobook/B0FXY6DVJS) (Audiobook), Matt Dinniman (5/27/26)
