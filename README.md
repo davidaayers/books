@@ -32,7 +32,7 @@ Hi! I'm [David](https://github.com/davidaayers), and these are all of the books 
 ## Fiction
 
 ### Reading
-* [Finders Keepers](https://www.audible.com/pd/Finders-Keepers-Audiobook/B00U7T90L4) (Audiobook), Stephen King
+- [End of Watch](https://www.audible.com/pd/End-of-Watch-Audiobook/B018RDY61A) (Audiobook), Stephen King
 
 ### Finished
 * [Blood of the Mantis: Shadows of the Apt, Book 3](https://www.audible.com/pd/Blood-of-the-Mantis-Audiobook/1529050316) (Audiobook), Adrian Tchaikovsky (1/5/26)
@@ -44,3 +44,4 @@ Hi! I'm [David](https://github.com/davidaayers), and these are all of the books 
 * [War Master's Gate: Shadows of the Apt, Book 9](https://www.audible.com/pd/War-Masters-Gate-Audiobook/152905043X) (Audiobook), Adrian Tchaikovsky (4/23/26)
 * [Seal of the Worm: Shadows of the Apt, Book 10](https://www.audible.com/pd/Seal-of-the-Worm-Audiobook/1529050456) (Audiobook), Adrian Tchaikovsky (5/12/26)
 * [A Parade of Horribles, Dungeon Crawler Carl, Book 8](https://www.audible.com/pd/A-Parade-of-Horribles-Audiobook/B0FXY6DVJS) (Audiobook), Matt Dinniman (5/27/26)
+* [Finders Keepers](https://www.audible.com/pd/Finders-Keepers-Audiobook/B00U7T90L4) (Audiobook), Stephen King (6/4/26)
