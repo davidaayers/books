@@ -32,7 +32,7 @@ Hi! I'm [David](https://github.com/davidaayers), and these are all of the books 
 ## Fiction
 
 ### Reading
-- [End of Watch](https://www.audible.com/pd/End-of-Watch-Audiobook/B018RDY61A) (Audiobook), Stephen King
+- [Holly](https://www.audible.com/pd/Holly-Audiobook/B0BSY3PTSV) (Audiobook), Stephen King
 
 ### Finished
 * [Blood of the Mantis: Shadows of the Apt, Book 3](https://www.audible.com/pd/Blood-of-the-Mantis-Audiobook/1529050316) (Audiobook), Adrian Tchaikovsky (1/5/26)
@@ -45,3 +45,6 @@ Hi! I'm [David](https://github.com/davidaayers), and these are all of the books 
 * [Seal of the Worm: Shadows of the Apt, Book 10](https://www.audible.com/pd/Seal-of-the-Worm-Audiobook/1529050456) (Audiobook), Adrian Tchaikovsky (5/12/26)
 * [A Parade of Horribles, Dungeon Crawler Carl, Book 8](https://www.audible.com/pd/A-Parade-of-Horribles-Audiobook/B0FXY6DVJS) (Audiobook), Matt Dinniman (5/27/26)
 * [Finders Keepers](https://www.audible.com/pd/Finders-Keepers-Audiobook/B00U7T90L4) (Audiobook), Stephen King (6/4/26)
+- [End of Watch](https://www.audible.com/pd/End-of-Watch-Audiobook/B018RDY61A) (Audiobook), Stephen King (6/11/26)
+- [The Outsider](https://www.audible.com/pd/The-Outsider-Audiobook/B07957SPGB) (Audiobook), Stephen King (6/30/26)
+- [If It Bleeds](https://www.audible.com/pd/If-It-Bleeds-Audiobook/1797104802) (Audiobook), Stephen King (7/20/26)
