@@ -32,7 +32,7 @@ Hi! I'm [David](https://github.com/davidaayers), and these are all of the books 
 ## Fiction
 
 ### Reading
-- [Holly](https://www.audible.com/pd/Holly-Audiobook/B0BSY3PTSV) (Audiobook), Stephen King
+* [Bee Speaker](https://www.audible.com/pd/Bee-Speaker-Audiobook/B0F4KXLK5R) (Audiobook), Adrian Tchaikovsky
 
 ### Finished
 * [Blood of the Mantis: Shadows of the Apt, Book 3](https://www.audible.com/pd/Blood-of-the-Mantis-Audiobook/1529050316) (Audiobook), Adrian Tchaikovsky (1/5/26)
@@ -48,3 +48,7 @@ Hi! I'm [David](https://github.com/davidaayers), and these are all of the books 
 - [End of Watch](https://www.audible.com/pd/End-of-Watch-Audiobook/B018RDY61A) (Audiobook), Stephen King (6/11/26)
 - [The Outsider](https://www.audible.com/pd/The-Outsider-Audiobook/B07957SPGB) (Audiobook), Stephen King (6/30/26)
 - [If It Bleeds](https://www.audible.com/pd/If-It-Bleeds-Audiobook/1797104802) (Audiobook), Stephen King (7/20/26)
+- [Holly](https://www.audible.com/pd/Holly-Audiobook/B0BSY3PTSV) (Audiobook), Stephen King (7/29/26)
+* [Children of Strife](https://www.audible.com/pd/Children-of-Strife-Audiobook/B0FH7DN3SW) (Audiobook), Adrian Tchaikovsky (8/19/26)
+* [Bear Head](https://www.audible.com/pd/Bear-Head-Audiobook/B0BTDTF5P9) (Audiobook), Adrian Tchaikovsky (8/27/26)
+* [Dogs of War](https://www.audible.com/pd/Dogs-of-War-Audiobook/B0BT2T1ZWV) (Audiobook), Adrian Tchaikovsky (9/8/26)

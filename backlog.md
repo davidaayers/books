@@ -81,6 +81,7 @@ Books I own or want to read.
 * [Good to Great](https://www.amazon.com/Good-to-Great-Jim-Collins-audiobook/dp/B003VXI5MS/), Jim Collins
 * [The Power of Intuition](https://www.amazon.com/dp/0385502893), Gary Klein
 * [Executive Engineering](https://jackdanger.com/books/executive-engineering/), Jack Danger
+* [The Reverse Centaur's Guide to Life After AI](https://us.macmillan.com/books/9781250472007/thereversecentaursguidetolifeafterai/), Cory Doctorow
 
 ## Fiction
 
