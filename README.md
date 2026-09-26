@@ -32,7 +32,7 @@ Hi! I'm [David](https://github.com/davidaayers), and these are all of the books 
 ## Fiction
 
 ### Reading
-* [Bee Speaker](https://www.audible.com/pd/Bee-Speaker-Audiobook/B0F4KXLK5R) (Audiobook), Adrian Tchaikovsky
+- [Memory's Legion: The Complete Expanse Story Collection](https://www.audible.com/pd/Memorys-Legion-Audiobook/1549191144) (Audiobook), James SA Corey
 
 ### Finished
 * [Blood of the Mantis: Shadows of the Apt, Book 3](https://www.audible.com/pd/Blood-of-the-Mantis-Audiobook/1529050316) (Audiobook), Adrian Tchaikovsky (1/5/26)
@@ -52,3 +52,4 @@ Hi! I'm [David](https://github.com/davidaayers), and these are all of the books 
 * [Children of Strife](https://www.audible.com/pd/Children-of-Strife-Audiobook/B0FH7DN3SW) (Audiobook), Adrian Tchaikovsky (8/19/26)
 * [Bear Head](https://www.audible.com/pd/Bear-Head-Audiobook/B0BTDTF5P9) (Audiobook), Adrian Tchaikovsky (8/27/26)
 * [Dogs of War](https://www.audible.com/pd/Dogs-of-War-Audiobook/B0BT2T1ZWV) (Audiobook), Adrian Tchaikovsky (9/8/26)
+* [Bee Speaker](https://www.audible.com/pd/Bee-Speaker-Audiobook/B0F4KXLK5R) (Audiobook), Adrian Tchaikovsky (9/24/26)
