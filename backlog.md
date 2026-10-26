@@ -86,7 +86,6 @@ Books I own or want to read.
 ## Fiction
 
 ### Backlog (Owned)
-* [Starter Villain](https://www.audible.com/pd/Starter-Villain-Audiobook/B0C6FPMDGV) (Audiobook), John Scalzi
 * [The Book That Wouldn't Burn](https://www.audible.com/pd/The-Book-That-Wouldnt-Burn-Audiobook/B0B9P72LZC) (Audiobook), Mark Lawrence
 * [Something, Something, Something, Murder](https://nextdraft.com/something-something-something-murder/) - Not a book, but an online serial that was published week by week for Nextdraft.
 * [In the Stacks](https://brandnewbox.com/inthestacks/) - Not a book, an online thing by Robin Sloan

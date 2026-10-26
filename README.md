@@ -32,7 +32,7 @@ Hi! I'm [David](https://github.com/davidaayers), and these are all of the books 
 ## Fiction
 
 ### Reading
-- [Memory's Legion: The Complete Expanse Story Collection](https://www.audible.com/pd/Memorys-Legion-Audiobook/1549191144) (Audiobook), James SA Corey
+* [Starter Villain](https://www.audible.com/pd/Starter-Villain-Audiobook/B0C6FPMDGV) (Audiobook), John Scalzi
 
 ### Finished
 * [Blood of the Mantis: Shadows of the Apt, Book 3](https://www.audible.com/pd/Blood-of-the-Mantis-Audiobook/1529050316) (Audiobook), Adrian Tchaikovsky (1/5/26)
@@ -53,3 +53,5 @@ Hi! I'm [David](https://github.com/davidaayers), and these are all of the books 
 * [Bear Head](https://www.audible.com/pd/Bear-Head-Audiobook/B0BTDTF5P9) (Audiobook), Adrian Tchaikovsky (8/27/26)
 * [Dogs of War](https://www.audible.com/pd/Dogs-of-War-Audiobook/B0BT2T1ZWV) (Audiobook), Adrian Tchaikovsky (9/8/26)
 * [Bee Speaker](https://www.audible.com/pd/Bee-Speaker-Audiobook/B0F4KXLK5R) (Audiobook), Adrian Tchaikovsky (9/24/26)
+- [Memory's Legion: The Complete Expanse Story Collection](https://www.audible.com/pd/Memorys-Legion-Audiobook/1549191144) (Audiobook), James SA Corey (10/5/26)
+- [King Sorrow](https://www.audible.com/pd/King-Sorrow-Audiobook/B0DSCGNTXS) (Audiobook), Joe Hill, 10/22/26 
