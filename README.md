@@ -32,7 +32,7 @@ Hi! I'm [David](https://github.com/davidaayers), and these are all of the books 
 ## Fiction
 
 ### Reading
-* [Starter Villain](https://www.audible.com/pd/Starter-Villain-Audiobook/B0C6FPMDGV) (Audiobook), John Scalzi
+- [The Infinite Extent: Bobiverse, Book 6](https://www.audible.com/pd/The-Infinite-Extent-Audiobook/B0H8SY9QMX) (Audiobook), Dennis E. Taylor
 
 ### Finished
 * [Blood of the Mantis: Shadows of the Apt, Book 3](https://www.audible.com/pd/Blood-of-the-Mantis-Audiobook/1529050316) (Audiobook), Adrian Tchaikovsky (1/5/26)
@@ -55,3 +55,4 @@ Hi! I'm [David](https://github.com/davidaayers), and these are all of the books 
 * [Bee Speaker](https://www.audible.com/pd/Bee-Speaker-Audiobook/B0F4KXLK5R) (Audiobook), Adrian Tchaikovsky (9/24/26)
 - [Memory's Legion: The Complete Expanse Story Collection](https://www.audible.com/pd/Memorys-Legion-Audiobook/1549191144) (Audiobook), James SA Corey (10/5/26)
 - [King Sorrow](https://www.audible.com/pd/King-Sorrow-Audiobook/B0DSCGNTXS) (Audiobook), Joe Hill, 10/22/26 
+* [Starter Villain](https://www.audible.com/pd/Starter-Villain-Audiobook/B0C6FPMDGV) (Audiobook), John Scalzi, 10/27/26
